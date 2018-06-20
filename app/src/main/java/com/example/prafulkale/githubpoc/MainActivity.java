@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 // i am in version2.0 branch
     // merged
+    // merged 2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
